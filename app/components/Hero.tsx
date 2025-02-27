@@ -126,7 +126,7 @@ export default function Hero() {
                       <div
                           className="relative w-full h-full rounded-2xl overflow-hidden shadow-2xl">
                           <Image
-                              src="/images/profile.png"
+                              src="images/profile.png"
                               alt="Wesley Leung"
                               fill  // Automatically fills the parent div
                               className="object-cover"
